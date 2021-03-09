@@ -1,4 +1,4 @@
-app : {
-  backgroundColor: 'red',
-  height: 50px
+.app {
+  background-color: "red";
+  height: 50px;
 }
