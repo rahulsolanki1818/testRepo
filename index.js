@@ -21,3 +21,7 @@ function test() {
 function name(firstName, lastName) {
   return `${firstName} ${lastName}`;
 }
+
+function test(d) {
+  console.log(d);
+}
