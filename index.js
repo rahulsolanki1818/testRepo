@@ -6,6 +6,4 @@ function test() {
   } else {
     console.log("no changes occured in git.");
   }
-
-  //let add return statement
 }
