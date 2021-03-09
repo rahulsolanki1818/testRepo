@@ -9,3 +9,7 @@ function test() {
 
   //let add return statement
 }
+
+function name(firstName, lastName) {
+  return `${firstName} ${lastName}`;
+}
