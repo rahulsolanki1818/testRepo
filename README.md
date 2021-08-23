@@ -2,11 +2,11 @@
 
 ## <ins>Table Of Contents:</ins>
 
-1. [Clean Code](https://github.com/rahulsolanki1818/testRepo/blob/master/README.md#clean-code)
-2. Security
-3. Performance
-4. Implement CI/CD
-5. Unit Test
+1. [Clean Code](#clean-code)
+2. [Security](#security)
+3. [Performance](https://github.com/rahulsolanki1818/testRepo/blob/master/README.md#performance)
+4. [Implement CI/CD]
+5. [Unit Test]
 
 ## <ins>Clean Code:</ins>
 
