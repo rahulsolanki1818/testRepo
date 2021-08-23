@@ -71,7 +71,7 @@ Segregate the `HardCoded` string in a single place or in a `Constant` directory.
 
 ---
 ## <ins>Security:</ins>
----
+
 
 ### `1. Avoid excessive logs for unusual behaviour:`
 
