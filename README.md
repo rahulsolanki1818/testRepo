@@ -1,4 +1,11 @@
 # Code Review
+### `Note:`
+I have the following checklist to be considered while reviewing the code:
+
+- Take your time. Don't rush.
+- Review every line.
+- Don't hesitate to communicate with the developer in case of any queries.
+- Properly review the changes again, after an iteration.
 
 ## <ins>Table Of Contents:</ins>
 
@@ -9,14 +16,6 @@
 5. [Unit Test](#unit-test)
 
 ## <ins>Clean Code:</ins>
-
-### `Note:`
-I have the following checklist to be considered while reviewing the code:
-
-- Take your time. Don't rush.
-- Review every line.
-- Don't hesitate to communicate with the developer in case of any queries.
-- Properly review the changes again, after an iteration.
 
 ### `1. Use Intention-Revealing Names:`
 
