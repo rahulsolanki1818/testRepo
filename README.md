@@ -60,6 +60,13 @@ Segregate the `HardCoded` string in a single place or in a `Constant` directory.
 
 **Severity:** Medium
 
+### `Note:`
+We should have set of parameters to be considered while reviewing the code like:
+- Take your time. Don't rush.
+- Review every line.
+- Don't hesitate to communicate with the developer in case of any queries.
+- Properly review the changes again, after an iteration.
+
 
 ---
 ## <ins>Security:</ins>
@@ -202,10 +209,4 @@ For effective project management, communication plays an important role. So we c
 - MatterMost
 - etc.
 
-### `Note:`
-I have the following checklist to be considered while reviewing the code:
 
-- Take your time. Don't rush.
-- Review every line.
-- Don't hesitate to communicate with the developer in case of any queries.
-- Properly review the changes again, after an iteration.
