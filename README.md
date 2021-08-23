@@ -2,7 +2,7 @@
 
 ## <ins>Table Of Contents:</ins>
 
-1. Clean Code
+1. [Clean Code](https://github.com/rahulsolanki1818/testRepo/blob/master/README.md#clean-code)
 2. Security
 3. Performance
 4. Implement CI/CD
