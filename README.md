@@ -126,13 +126,6 @@ Remove unnecessary imports from the files to speed up the app start up time.
 
 **Severity:** Medium
 
-### `3. Avoid using unnecessary imports:`
-
-While reviewing code, I think the initial and most important step is to understand the problem statement for which the solution is developed. Also, it is good to have test cases written for the feature developed. Unit and integration tests are really helpful to identify the feature developed.
-
-**References:** NA
-
-**Severity:** Medium
 
 ---
 
