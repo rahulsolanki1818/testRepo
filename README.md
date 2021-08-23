@@ -159,6 +159,8 @@ Implement UI testing & Logic testing to make sure the addition of any new featur
 
 **Severity:** Medium
 
+---
+
 # <ins>Strategic Thinking</ins>
 
 ### `Documentation:`
