@@ -4,9 +4,9 @@
 
 1. [Clean Code](#clean-code)
 2. [Security](#security)
-3. [Performance](https://github.com/rahulsolanki1818/testRepo/blob/master/README.md#performance)
-4. [Implement CI/CD]
-5. [Unit Test]
+3. [Performance](#performance)
+4. [Implement CI/CD](#implement-cicd)
+5. [Unit Test](#unit-test)
 
 ## <ins>Clean Code:</ins>
 
