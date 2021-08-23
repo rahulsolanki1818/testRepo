@@ -59,6 +59,7 @@ Segregate the `HardCoded` string in a single place or in a `Constant` directory.
 
 **Severity:** Medium
 
+### `Note:`
 I have the following checklist to be considered while reviewing the code:
 
 - Take your time. Don't rush.
