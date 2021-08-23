@@ -5,7 +5,8 @@
 1. Clean Code
 2. Security
 3. Performance
-4. Unit Test
+4. Implement CI/CD
+5. Unit Test
 
 ## <ins>Clean Code:</ins>
 
