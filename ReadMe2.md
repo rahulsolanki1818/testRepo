@@ -1,3 +1,8 @@
+## <ins>Table Of Contents:</ins>
+
+1. [Clean Code](#clean-code)
+2. [Strategic Thinking](#strategic-thinking)
+
 # Code Review
 ### **1. Avoid Duplication:**
 
